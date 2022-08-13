@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: af8d2c64db0594c4f8f99b1db743d3e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2640177403588194717
+    second: "bindingsv\xE6rk_0"
+  - first:
+      213: 3558907331887644970
+    second: "bindingsv\xE6rk_1"
+  - first:
+      213: 1205359698916345444
+    second: "bindingsv\xE6rk_2"
+  - first:
+      213: 6713613332404829766
+    second: "bindingsv\xE6rk_3"
+  - first:
+      213: -5935131284893515346
+    second: "bindingsv\xE6rk_4"
+  - first:
+      213: -6131380138351517083
+    second: "bindingsv\xE6rk_5"
+  - first:
+      213: -7266767125870581146
+    second: "bindingsv\xE6rk_6"
+  - first:
+      213: -9022186400956205265
+    second: "bindingsv\xE6rk_7"
+  - first:
+      213: 6059913426378265367
+    second: "bindingsv\xE6rk_8"
+  - first:
+      213: 7251856916715985762
+    second: "bindingsv\xE6rk_9"
+  - first:
+      213: 5248292009494730446
+    second: "bindingsv\xE6rk_10"
+  - first:
+      213: -4254016567674384948
+    second: "bindingsv\xE6rk_11"
+  - first:
+      213: -5638458293922035387
+    second: "bindingsv\xE6rk_12"
+  - first:
+      213: 3839854996725478493
+    second: "bindingsv\xE6rk_13"
+  - first:
+      213: -4910189615008327955
+    second: "bindingsv\xE6rk_14"
+  - first:
+      213: 1999522493748006375
+    second: "bindingsv\xE6rk_15"
+  - first:
+      213: 1941872096522517283
+    second: "bindingsv\xE6rk_16"
+  - first:
+      213: 8515760243680395527
+    second: "bindingsv\xE6rk_17"
+  - first:
+      213: 8164254462868183334
+    second: "bindingsv\xE6rk_18"
+  - first:
+      213: 5124464367547413211
+    second: "bindingsv\xE6rk_19"
+  - first:
+      213: 1620595479750188704
+    second: "bindingsv\xE6rk_20"
+  - first:
+      213: 7757825046495959031
+    second: "bindingsv\xE6rk_21"
+  - first:
+      213: -611665236522456856
+    second: "bindingsv\xE6rk_22"
+  - first:
+      213: 8484871305431184326
+    second: "bindingsv\xE6rk_23"
+  - first:
+      213: -8639544782476406756
+    second: "bindingsv\xE6rk_24"
+  - first:
+      213: 1655116672589318793
+    second: "bindingsv\xE6rk_25"
+  - first:
+      213: 7594621446926620255
+    second: "bindingsv\xE6rk_26"
+  - first:
+      213: 3537308713647877375
+    second: "bindingsv\xE6rk_27"
+  - first:
+      213: 2927319006573823051
+    second: "bindingsv\xE6rk_28"
+  - first:
+      213: 5347640218875487491
+    second: "bindingsv\xE6rk_29"
+  - first:
+      213: -2744729119476113661
+    second: "bindingsv\xE6rk_30"
+  - first:
+      213: 5828956523658064289
+    second: "bindingsv\xE6rk_31"
+  - first:
+      213: -6576868667050680937
+    second: "bindingsv\xE6rk_32"
+  - first:
+      213: 1345049836043549830
+    second: "bindingsv\xE6rk_33"
+  - first:
+      213: 3052917606782104532
+    second: "bindingsv\xE6rk_34"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ecc13c3a43c5bd0800000000000000
+      internalID: -2640177403588194717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2142b9cc57c36130800000000000000
+      internalID: 3558907331887644970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4660b78824c4ab010800000000000000
+      internalID: 1205359698916345444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_3"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ef05d61cb8b2d50800000000000000
+      internalID: 6713613332404829766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea14d94ca8d22ada0800000000000000
+      internalID: -5935131284893515346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5622ca6ef36f8eaa0800000000000000
+      internalID: -6131380138351517083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_6"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6ffcccc1472b90800000000000000
+      internalID: -7266767125870581146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2735a91541cac280800000000000000
+      internalID: -9022186400956205265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_8"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71395ec8723291450800000000000000
+      internalID: 6059913426378265367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_9"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd0da9175c3a460800000000000000
+      internalID: 7251856916715985762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec65477a6cda5d840800000000000000
+      internalID: 5248292009494730446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_11"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd442f6872b6f4c0800000000000000
+      internalID: -4254016567674384948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_12"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5490ce53e0c20c1b0800000000000000
+      internalID: -5638458293922035387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_13"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b4dc66c7e94530800000000000000
+      internalID: 3839854996725478493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_14"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6dd997f808bdbb0800000000000000
+      internalID: -4910189615008327955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc0483d1bbfbb10800000000000000
+      internalID: 1999522493748006375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_16"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb770226ae2fa10800000000000000
+      internalID: 1941872096522517283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_17"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c6fcb2de0e2670800000000000000
+      internalID: 8515760243680395527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_18"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d72b8d224d4170800000000000000
+      internalID: 8164254462868183334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_19"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27fc31131cd1740800000000000000
+      internalID: 5124464367547413211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1d17a0038d7610800000000000000
+      internalID: 1620595479750188704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_21"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7150ee6c459ab60800000000000000
+      internalID: 7757825046495959031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_22"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8af9745bde287f0800000000000000
+      internalID: -611665236522456856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_23"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3712d5f7150c570800000000000000
+      internalID: 8484871305431184326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_24"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c101a6b6bcb2a1880800000000000000
+      internalID: -8639544782476406756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a438338d728f610800000000000000
+      internalID: 1655116672589318793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_26"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56df9bc7f3856960800000000000000
+      internalID: 7594621446926620255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_27"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc20e9988b071130800000000000000
+      internalID: 3537308713647877375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_28"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44051b702def9820800000000000000
+      internalID: 2927319006573823051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_29"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3056aa03272a63a40800000000000000
+      internalID: 5347640218875487491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f94f47863c8e9d0800000000000000
+      internalID: -2744729119476113661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_31"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1b5db331d94e050800000000000000
+      internalID: 5828956523658064289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_32"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1c060bc44ab4a0800000000000000
+      internalID: -6576868667050680937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_33"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cb29213b39aa210800000000000000
+      internalID: 1345049836043549830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bindingsv\xE6rk_34"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d378c863642e5a20800000000000000
+      internalID: 3052917606782104532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "bindingsv\xE6rk_9": 7251856916715985762
+      "bindingsv\xE6rk_3": 6713613332404829766
+      "bindingsv\xE6rk_10": 5248292009494730446
+      "bindingsv\xE6rk_19": 5124464367547413211
+      "bindingsv\xE6rk_24": -8639544782476406756
+      "bindingsv\xE6rk_33": 1345049836043549830
+      "bindingsv\xE6rk_1": 3558907331887644970
+      "bindingsv\xE6rk_2": 1205359698916345444
+      "bindingsv\xE6rk_4": -5935131284893515346
+      "bindingsv\xE6rk_31": 5828956523658064289
+      "bindingsv\xE6rk_21": 7757825046495959031
+      "bindingsv\xE6rk_8": 6059913426378265367
+      "bindingsv\xE6rk_15": 1999522493748006375
+      "bindingsv\xE6rk_12": -5638458293922035387
+      "bindingsv\xE6rk_13": 3839854996725478493
+      "bindingsv\xE6rk_23": 8484871305431184326
+      "bindingsv\xE6rk_26": 7594621446926620255
+      "bindingsv\xE6rk_0": -2640177403588194717
+      "bindingsv\xE6rk_5": -6131380138351517083
+      "bindingsv\xE6rk_16": 1941872096522517283
+      "bindingsv\xE6rk_6": -7266767125870581146
+      "bindingsv\xE6rk_17": 8515760243680395527
+      "bindingsv\xE6rk_22": -611665236522456856
+      "bindingsv\xE6rk_25": 1655116672589318793
+      "bindingsv\xE6rk_14": -4910189615008327955
+      "bindingsv\xE6rk_32": -6576868667050680937
+      "bindingsv\xE6rk_29": 5347640218875487491
+      "bindingsv\xE6rk_28": 2927319006573823051
+      "bindingsv\xE6rk_34": 3052917606782104532
+      "bindingsv\xE6rk_30": -2744729119476113661
+      "bindingsv\xE6rk_7": -9022186400956205265
+      "bindingsv\xE6rk_11": -4254016567674384948
+      "bindingsv\xE6rk_18": 8164254462868183334
+      "bindingsv\xE6rk_20": 1620595479750188704
+      "bindingsv\xE6rk_27": 3537308713647877375
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
